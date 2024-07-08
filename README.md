@@ -1,4 +1,4 @@
-# Sistema de Empleados con JSPs y Spring Boot
+# Sistema de Tareas con JavaFx y Spring Boot
 
 ## Arquitectura del Sistema
 
