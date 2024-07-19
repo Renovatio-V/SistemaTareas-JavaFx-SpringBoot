@@ -51,3 +51,8 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.main.web-application-type=none
+```
+
+## Vista
+![image](https://github.com/user-attachments/assets/320e5c53-2dbe-47c6-aa59-edc9a6068f48)
+
